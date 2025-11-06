@@ -1,6 +1,6 @@
 # MAGIC
 
-This repository provides the analysis pipeline for the clozapine dose-response mouse brain dataset using the MAGIC framework introduced in the manuscript: **Super Resolved Single-cell Spatial Metabobarcoding and Metabotyping for Unlimited Chemical Maps**
+This repository provides the analysis pipeline for the clozapine dose-response mouse brain dataset using the MAGIC framework introduced in the manuscript: **Super-resolved Single-cell Spatial Metabobarcoding and Metabotyping for Unlimited Chemical Maps**
 
 ---
 
@@ -8,8 +8,8 @@ This repository provides the analysis pipeline for the clozapine dose-response m
 
 | File                               | Description                                                     |
 |------------------------------------|-----------------------------------------------------------------|
-| `maldi_ihc_gsr.ipynb`              | Super-resolves MALDI-IHC protein marker channels               |
-| `cell_phenotyping.ipynb`           | Segments cells and assigns phenotypes using super-resolved data |
+| `maldi_ihc_gsr.ipynb`              | GSR of MALDI-IHC protein marker channels               |
+| `cell_phenotyping.ipynb`           | Segments cells and assigns phenotypes using GSR-enhanced data |
 | `lowres_metabolic_barcoding.ipynb` | Learns metabolic barcodes from low-resolution lipid features    |
 | `lipid_gsr.ipynb`                  | Applies GSR to key lipidomic MSI channels                       |
 | `superres_metabolic_barcoding.ipynb` | Refines metabolic barcodes using GSR-enhanced features        |
