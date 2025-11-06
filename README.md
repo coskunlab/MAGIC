@@ -185,7 +185,7 @@ To apply this pipeline to your own MSI + structural image dataset:
 If you use this software, please cite:
 
 **Ozturk et al. (2025)**  
-_Super Resolved Single-cell Spatial Metabobarcoding and Metabotyping for Unlimited Chemical Maps_  
+_Super-resolved Single-cell Spatial Metabobarcoding and Metabotyping in Tissues_  
 DOI: (pending)
 
 ---
@@ -198,9 +198,8 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 📦 Data Availability
 
-- Super-resolved MSI (Figshare): https://doi.org/10.6084/m9.figshare.29522213  
-- Single-cell `AnnData` (Figshare): https://doi.org/10.6084/m9.figshare.29524625
-- Clozapine dose-response mouse brain dataset (Figshare): https://doi.org/10.6084/m9.figshare.29650292.v
+- GSR-enhanced MSI (Figshare): https://doi.org/10.6084/m9.figshare.29522213  
+- GSR-enhanced single-cell `AnnData` (Figshare): https://doi.org/10.6084/m9.figshare.29524625
 ---
 
 ## 📁 Repository
