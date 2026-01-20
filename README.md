@@ -1,6 +1,6 @@
 # MAGIC
 
-This repository provides the analysis pipeline for the clozapine dose-response mouse brain dataset using the MAGIC framework introduced in the manuscript: **Super-resolved Single-cell Spatial Metabobarcoding and Metabotyping for Unlimited Chemical Maps**
+This repository provides the analysis pipeline for the clozapine dose-response mouse brain dataset using the MAGIC framework introduced in the manuscript: **Super-resolved Single-cell Spatial Metabobarcoding and Metabotyping in Tissues**
 
 ---
 
@@ -204,6 +204,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 📁 Repository
 
-- GitHub: https://github.com/coskunlab/MAGIC-Metabotyping-and-Advanced-Graphical-Imaging-of-Chemicals
+- GitHub: https://github.com/coskunlab/MAGIC
 
 ---
